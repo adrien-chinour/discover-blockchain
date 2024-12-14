@@ -1,3 +1,8 @@
-# Discover Blockchain
+# Discover Bitcoin
 
-- [Discover Blockchain #1 : Création d'une adresse bitcoin](docs/hash1.md)
+Premier article : [Comment créer une adresse Bitcoin ?](https://www.udfn.fr/articles/generation-dune-adresse-bitcoin)
+
+```javascript
+npm i
+node index.js
+```
